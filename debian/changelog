@@ -1,3 +1,9 @@
+base-files (7.3blankon1+edusantara2) anambas; urgency=medium
+
+  * Rebuild
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 28 Jul 2014 19:13:20 +0700
+
 base-files (7.3blankon1+edusantara1) anambas; urgency=low
 
   * Initial Release Anambas
