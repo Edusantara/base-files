@@ -1,3 +1,9 @@
+base-files (7.3blankon1+edusantara4 anambas; urgency=medium
+
+  * origins/edusantara 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 29 Jul 2014 20:49:08 +0700
+
 base-files (7.3blankon1+edusantara3) anambas; urgency=medium
 
   * Rebuild Again
