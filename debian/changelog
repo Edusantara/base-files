@@ -1,3 +1,9 @@
+base-files (7.3blankon1+edusantara5) anambas; urgency=medium
+
+  * Release
+  
+ -- Rahman Yusri Aftian <aftian@localhost>  Wed, 20 Aug 2014 21:19:28 +0700
+
 base-files (7.3blankon1+edusantara4) anambas; urgency=medium
 
   * origins/edusantara 
